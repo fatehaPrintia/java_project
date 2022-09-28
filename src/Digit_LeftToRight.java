@@ -19,7 +19,5 @@ public class Digit_LeftToRight {
             System.out.println(digit);
 
         }
-
-
     }
 }
