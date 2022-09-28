@@ -16,7 +16,7 @@ public class Digit_LeftToRight {
             int digit = new_number / power;
             new_number = new_number%power;
             count--;
-            System.out.println(digit);
+            System.out.print(digit);
 
         }
     }
