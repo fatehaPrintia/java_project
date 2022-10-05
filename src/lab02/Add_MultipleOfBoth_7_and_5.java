@@ -1,3 +1,5 @@
+package lab02;
+
 public class Add_MultipleOfBoth_7_and_5 {
     public static void main(String[] args) {
         int sum=0;

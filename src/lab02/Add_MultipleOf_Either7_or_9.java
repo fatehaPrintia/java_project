@@ -1,3 +1,5 @@
+package lab02;
+
 public class Add_MultipleOf_Either7_or_9 {
     public static void main(String[] args) {
         int sum=0;
