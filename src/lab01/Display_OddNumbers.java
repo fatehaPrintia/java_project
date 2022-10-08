@@ -1,3 +1,5 @@
+package lab01;
+
 import java.util.Scanner;
 
 public class Display_OddNumbers {

@@ -1,3 +1,5 @@
+package lab01;
+
 import javax.security.sasl.SaslClient;
 import java.util.Scanner;
 

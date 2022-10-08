@@ -1,3 +1,5 @@
+package lab02;
+
 import java.util.Scanner;
 
 public class D0_Sum_and_print {
